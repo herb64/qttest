@@ -17,7 +17,6 @@ public:
 
 private slots:
     void on_pushButton_clicked();
-    void on_herbsbutton_clicked();
 
 private:
     Ui::MainWindow *ui;
